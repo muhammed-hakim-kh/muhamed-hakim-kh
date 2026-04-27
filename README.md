@@ -1,66 +1,41 @@
-<h1 align="center">Hi 👋, I'm Mohamed Hakeem</h1>
-<h3 align="center">Backend Developer (Node.js) in progress 🚀</h3>
+# Hi there, I'm Muhammed Abdel-Hakeem! 👋
+
+### 🚀 Front-End Developer | React Specialist
+
+I am a dedicated **Front-End Developer** who loves crafting interactive, high-performance, and responsive web experiences. My journey started with a fascination for the web's visual side, and now I build complex interfaces using modern JavaScript technologies.
 
 ---
 
-## 💫 About Me
-- 💻 Passionate about backend development and server-side technologies  
-- 🌱 Currently mastering **Node.js & Backend Architecture**  
-- 🧠 Always learning new technologies and improving problem-solving skills  
-- 🎯 Goal: Become a professional Backend Engineer and build scalable production systems  
+### 💻 Technical Skills
+
+- **Core:** HTML5, CSS3, JavaScript (ES6+)
+- **Frameworks:** React.js (Hooks, Router, State Management)
+- **State Management:** Redux, Context API
+- **Styling & UI:** Tailwind CSS, Bootstrap, CSS Modules, Responsive Design
+- **Version Control:** Git, GitHub
+- **Workflow:** VS Code, NPM/Yarn, Chrome DevTools
 
 ---
 
-## 🛠️ Tech Stack
-**Languages**
-- JavaScript
-
-**Backend**
-- Node.js
-- Express.js
-
-**Databases**
-- MongoDB
-- MySQL
-
-**Tools**
-- Git & GitHub  
-- Postman  
-- VS Code  
+### 🛠️ What I'm Up To
+- 🔭 Building scalable web applications with **React**.
+- 🎨 Improving my skills in **Animation libraries** and **Performance optimization**.
+- ✍️ Writing clean, reusable, and maintainable code.
+- 📹 Sharing my technical journey and tutorials on my YouTube channel, **HakMax**.
 
 ---
 
-## 📚 Currently Learning
-- Advanced Node.js
-- Authentication & Security
-- System Design Basics
-- Clean Architecture
+### 🌟 Featured Projects
+*Here are a few things I've been working on:*
+- **[Project Name 1]:** A brief description of what this React app does.
+- **[Project Name 2]:** A responsive landing page using Tailwind CSS.
 
 ---
 
-## 🚀 Projects
-Here are some of the projects I built or currently working on:
-
-- 🔹 REST API Project  
-- 🔹 Authentication System  
-- 🔹 CRUD Application  
-
-*(More projects coming soon…)*
+### 📫 Reach Out
+- **LinkedIn:** [Your Link]
+- **Portfolio:** [Your Link]
+- **Email:** 19medokh@gmail.com
 
 ---
-
-## 📈 Goals for 2026
-- Build production-ready backend projects  
-- Contribute to open source  
-- Master backend performance optimization  
-- Learn Docker & CI/CD  
-
----
-
-## 📫 Connect With Me
-- GitHub: https://github.com/YOUR_USERNAME  
-- LinkedIn: (add your profile link)
-
----
-
-⭐ *Code. Learn. Build. Repeat.*
+*"Turning coffee into beautiful, functional code."*
